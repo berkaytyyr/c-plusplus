@@ -11,7 +11,7 @@ int main() {
 
     cout << "_SAYI_TAHMIN_OYUNU_" << endl;
     cout << "1 ile 100 arasinda bir sayi tuttum. Tahmin et bakalim!" << endl;
-  
+
     while (true) {
         cout << "Tahminini gir: ";
         cin >> tahmin;
@@ -29,4 +29,25 @@ int main() {
         }
     }
 }
-  
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
